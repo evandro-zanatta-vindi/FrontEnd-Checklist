@@ -686,10 +686,6 @@ Se você tem alguma pergunta ou sugestão, não hesite em usar o Gitter ou Twitt
 * [Facebook](https://www.facebook.com/frontendchecklist/)
 * [Twitter](https://twitter.com/thedaviddias)
 
-## Autores
-
-**[David Dias](https://github.com/thedaviddias/Front-End-Checklist)**
-
 ## Licença
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
