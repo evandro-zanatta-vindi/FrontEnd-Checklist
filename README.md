@@ -4,9 +4,6 @@ A **Front-End Checklist** é uma lista exaustiva de todos elementos que você pr
 
 Ela é baseada em anos de experiência de desenvolvedores Front-End, com as adições provenientes de outras checklists open-source.
 
-*Ajude a compartilhar a Front-End Checklist votando e recomendando-a no Product Hunt*
-[![](http://res.cloudinary.com/djnyaloac/image/upload/v1508896898/upvote-producthunt_vzys4c.jpg)](https://www.producthunt.com/posts/front-end-checklist)
-
 ## Índice
 
 1. **[Head](#head)**
