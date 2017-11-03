@@ -35,7 +35,7 @@ Alguns recursos possuem um emoticon para ajudar você a entender qual tipo de co
 
 ## Head
 
-> **Notas:** Você pode acessar [uma lista com tudo](https://github.com/VinniciusGomes/HEAD-Checklist) que poderia ser encontrado na `<head>` de um document HTML.
+> **Notas:** Você pode acessar [uma lista com tudo](https://github.com/VinniciusGomes/HEAD) que poderia ser encontrado na `<head>` de um document HTML.
 
 ### Meta tag
 
